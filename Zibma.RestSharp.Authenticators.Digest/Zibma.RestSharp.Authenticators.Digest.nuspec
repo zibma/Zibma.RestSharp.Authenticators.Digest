@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Zibma Infotech</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>Zibma.RestSharp.Authenticators.Digest</description>
+    <releaseNotes>Digest Authentication for RestSharp requests.</releaseNotes>
+    <copyright>2023 Zibma Infotech</copyright>
+    <dependencies>
+    	<dependency id="RestSharp" version="110.2.0" />
+    </dependencies>
+    <tags>Zibma RestSharp Authenticators Authenticator Digest</tags>
+  </metadata>
+</package>
